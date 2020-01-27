@@ -19,7 +19,7 @@ class App extends React.Component {
   };
   messages = {
     username_incorrect:
-      "Nazwa musi być zawierać od 4 do 10 znaków i nie może zawierać spacji",
+      "Nazwa musi być składać sie z 4 do 10 znaków. Nie może zawierać spacji",
     email_incorrect: "Brak @ w emailu",
     password_incorrect: "Hasło musi mieć 8 znaków",
     accept_incorrect: "Należy zapoznać sie z regulaminem"
